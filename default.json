@@ -1,0 +1,161 @@
+[
+  {
+    "name": "EN-PL music instruments",
+    "cards": [
+      {
+        "front": "bass",
+        "back": "gitara basowa"
+      },
+      {
+        "front": "the drums",
+        "back": "perkusja"
+      },
+      {
+        "front": "flute",
+        "back": "flet poprzeczny"
+      },
+      {
+        "front": "recorder",
+        "back": "flet prosty"
+      },
+      {
+        "front": "voilin",
+        "back": "skrzypce"
+      },
+      {
+        "front": "trumpet",
+        "back": "trąbka"
+      },
+      {
+        "front": "grand piano",
+        "back": "skrzypce"
+      },
+      {
+        "front": "accordion",
+        "back": "akordeon"
+      },
+      {
+        "front": "harpsichord",
+        "back": "klawesyn"
+      },
+      {
+        "front": "trombone",
+        "back": "puzon"
+      },
+      {
+        "front": "harp",
+        "back": "harfa"
+      },
+      {
+        "front": "cello",
+        "back": "wiolonczela"
+      },
+      {
+        "front": "french horn",
+        "back": "waltornia"
+      }
+    ]
+  },
+  {
+    "name": "EN-PL Sports",
+    "cards": [
+      {
+        "front": "basketball",
+        "back": "koszykówka"
+      },
+      {
+        "front": "archery",
+        "back": "łucznictwo"
+      },
+      {
+        "front": "alpine skiing",
+        "back": "narciarstwo alpejskie"
+      },
+      {
+        "front": "diving",
+        "back": "nurkowanie"
+      },
+      {
+        "front": "fencing",
+        "back": "szermierka"
+      },
+      {
+        "front": "basketball",
+        "back": "koszykówka"
+      },
+      {
+        "front": "football",
+        "back": "piłka nożna"
+      },
+      {
+        "front": "voleyball",
+        "back": "siatkówka"
+      },
+      {
+        "front": "figure skating",
+        "back": "łyżwiarstwo figurowe"
+      },
+      {
+        "front": "rowing",
+        "back": "żeglarstwo"
+      },
+      {
+        "front": "javelin throw",
+        "back": "rzut oszczepem"
+      },
+      {
+        "front": "pole vault",
+        "back": "skok o tyczce"
+      }
+    ]
+  },
+  {
+    "name": "EN-PL proffesions",
+    "cards": [
+      {
+        "front": "lawyer",
+        "back": "prawnik"
+      },
+      {
+        "front": "truck driver",
+        "back": "kierowca ciężarówki"
+      },
+      {
+        "front": "surgeon",
+        "back": "chirurg"
+      },
+      {
+        "front": "teacher",
+        "back": "nauczyciel"
+      },
+      {
+        "front": "accountant",
+        "back": "księgowy"
+      },
+      {
+        "front": "software engineer",
+        "back": "programista"
+      },
+      {
+        "front": "waiter",
+        "back": "kelner"
+      },
+      {
+        "front": "baker",
+        "back": "piekarz"
+      },
+      {
+        "front": "prosecutor",
+        "back": "prokurator"
+      },
+      {
+        "front": "solicitor",
+        "back": "radca prawny"
+      },
+      {
+        "front": "urzędnik",
+        "back": "clerk"
+      }
+    ]
+  }
+]
