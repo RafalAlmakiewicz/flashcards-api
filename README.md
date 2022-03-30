@@ -2,7 +2,11 @@
 
 Backend services for [Flashcards](https://github.com/RafalAlmakiewicz/flashcards). Created with Express and Mongoose.
 
-## Endpoints
+## Hosted on Heroku
+
+List of all decks: https://flashcards-7795.herokuapp.com/flashcards/api/decks
+
+## All Endpoints
 
 `flashcards/api`
 
@@ -17,7 +21,3 @@ Backend services for [Flashcards](https://github.com/RafalAlmakiewicz/flashcards
 `DELETE` `/decks/:id` &nbsp; Delete deck.
 
 `POST` `/seed` &nbsp; Seed database with default data stored in [default.json](https://github.com/RafalAlmakiewicz/flashcards-api/blob/master/default.json) file.
-
-<br><br>
-
-![api](https://user-images.githubusercontent.com/79459373/144752693-60de35e2-a778-4afa-832b-6d3c8e5336fb.png)
